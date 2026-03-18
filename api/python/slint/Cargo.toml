@@ -40,6 +40,7 @@ renderer-skia-opengl = ["slint-interpreter/renderer-skia-opengl"]
 renderer-skia-vulkan = ["slint-interpreter/renderer-skia-vulkan"]
 renderer-software = ["slint-interpreter/renderer-software"]
 accessibility = ["slint-interpreter/accessibility"]
+mcp = ["i-slint-backend-selector/mcp"]
 
 
 [dependencies]
